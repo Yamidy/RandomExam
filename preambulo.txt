@@ -1,0 +1,11 @@
+\documentclass[10pt,a4paper]{exam}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage[width=10.00cm, height=5.00cm]{geometry}
+\begin{document}
+	\begin{questions}
+
